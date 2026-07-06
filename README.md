@@ -1,5 +1,5 @@
 <h1 align="center">
-💻 AI/ML Engineer • Data Science • Computer Vision • Generative AI
+💻 AI/ML Engineer • Data Science • Full Stack Developer • Generative AI
 </h1>
 
 class ShreyaChavan():
