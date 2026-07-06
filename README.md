@@ -32,30 +32,52 @@ class ShreyaChavan():
     def fun_fact(self):
         return "Astronomy enthusiast 🌌 | Former President of the ISRO-IIRS Student Chapter 🚀"
 
-🚀 Technical Skills
+<h2>🚀 <b>Technical Skills</b></h2>
 
-Programming Languages:
-  Python • SQL • Java • C++ • JavaScript
+<p>
+<b>💻 Programming Languages</b><br>
+Python • SQL • Java • C++ • JavaScript
+</p>
 
-AI & Machine Learning:
-  Machine Learning • Deep Learning • Computer Vision • NLP • LLMs • Generative AI • LangChain • Agentic AI
+<p>
+<b>🤖 AI & Machine Learning</b><br>
+Machine Learning • Deep Learning • Computer Vision • NLP • LLMs • Generative AI • LangChain • Agentic AI
+</p>
 
-Frameworks & Libraries:
-  TensorFlow • PyTorch • Scikit-learn • OpenCV • Pandas • NumPy • Flask
+<p>
+<b>⚙️ Frameworks & Libraries</b><br>
+TensorFlow • PyTorch • Scikit-learn • OpenCV • Pandas • NumPy • Flask
+</p>
 
-Databases:
-  PostgreSQL • MongoDB • SQL Server
+<p>
+<b>🗄️ Databases</b><br>
+PostgreSQL • MongoDB • SQL Server
+</p>
 
-Tools:
-  Git • GitHub • VS Code • Jupyter Notebook • Jenkins • Power BI
+<p>
+<b>🛠️ Tools</b><br>
+Git • GitHub • VS Code • Jupyter Notebook • Jenkins • Power BI
+</p>
 
-🌟 Featured Projects
+<hr>
 
-  🩺 Pill Identification System
+<h2>🌟 <b>Featured Projects</b></h2>
 
-  🧠 Code Care
+<ul>
+<li>🩺 <b>Pill Identification System</b></li>
+<li>🧠 <b>Code Care</b></li>
+<li>🤟 <b>FingerTalk</b></li>
+</ul>
 
-  🤟 FingerTalk
+<hr>
+
+<h2>🏆 <b>Achievements</b></h2>
+
+<ul>
+<li>🥇 <b>1st Prize</b> – Project Based Learning Competition</li>
+<li>📄 <b>Research Paper</b> accepted at ICIET <i>(Publication in Progress)</i></li>
+<li>🚀 <b>Former President</b> – ISRO-IIRS Student Chapter</li>
+</ul>
 
 🏆 Achievements
 
