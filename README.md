@@ -1,4 +1,6 @@
-##💻 Code • Learn • Build • Innovate
+<h1 align="center">
+AI/ML Engineer • Data Science • Computer Vision • Generative AI
+</h1>
 
 class ShreyaChavan():
 
