@@ -32,58 +32,61 @@ class ShreyaChavan():
     def fun_fact(self):
         return "Astronomy enthusiast 🌌 | Former President of the ISRO-IIRS Student Chapter 🚀"
 
-<h2>🚀 <b>Technical Skills</b></h2>
+<hr>
 
-<p>
-<b>💻 Programming Languages</b><br>
+<h1>🚀 Technical Skills</h1>
+
+<h2>💻 Programming Languages</h2>
+
 Python • SQL • Java • C++ • JavaScript
-</p>
 
-<p>
-<b>🤖 AI & Machine Learning</b><br>
-Machine Learning • Deep Learning • Computer Vision • NLP • LLMs • Generative AI • LangChain • Agentic AI
-</p>
+<h2>🤖 AI & Machine Learning</h2>
 
-<p>
-<b>⚙️ Frameworks & Libraries</b><br>
+Machine Learning • Deep Learning • Computer Vision • Natural Language Processing • Large Language Models (LLMs) • Generative AI • LangChain • Agentic AI
+
+<h2>⚙️ Frameworks & Libraries</h2>
+
 TensorFlow • PyTorch • Scikit-learn • OpenCV • Pandas • NumPy • Flask
-</p>
 
-<p>
-<b>🗄️ Databases</b><br>
+<h2>🗄️ Databases</h2>
+
 PostgreSQL • MongoDB • SQL Server
-</p>
 
-<p>
-<b>🛠️ Tools</b><br>
+<h2>🛠️ Tools & Platforms</h2>
+
 Git • GitHub • VS Code • Jupyter Notebook • Jenkins • Power BI
-</p>
 
 <hr>
 
-<h2>🌟 <b>Featured Projects</b></h2>
+<h1>🌟 Featured Projects</h1>
 
-<ul>
-<li>🩺 <b>Pill Identification System</b></li>
-<li>🧠 <b>Code Care</b></li>
-<li>🤟 <b>FingerTalk</b></li>
-</ul>
+<h2>🩺 Pill Identification System</h2>
+
+AI-powered medicine identification and dosage assistant using **Computer Vision, CNN, OpenCV, LangChain, and LLMs**.
+
+<h2>🧠 Code Care</h2>
+
+LLM-powered coding and mental healthcare platform integrating coding practice with AI-assisted mental wellness support.
+
+<h2>🤟 FingerTalk</h2>
+
+Real-time sign language recognition system using **Deep Learning, TensorFlow, OpenCV, and CVZone**.
 
 <hr>
 
-<h2>🏆 <b>Achievements</b></h2>
+<h1>🏆 Achievements</h1>
 
-<ul>
-<li>🥇 <b>1st Prize</b> – Project Based Learning Competition</li>
-<li>📄 <b>Research Paper</b> accepted at ICIET <i>(Publication in Progress)</i></li>
-<li>🚀 <b>Former President</b> – ISRO-IIRS Student Chapter</li>
-</ul>
+<h2>🥇 First Prize</h2>
 
-🏆 Achievements
+Project Based Learning Competition for **FingerTalk**.
 
-🥇 1st Prize – Project Based Learning Competition
+<h2>📄 Research Publication</h2>
 
-  📄 Research Paper accepted at ICIET (Publication in Progress)
+Research paper accepted at the **ICIET International Conference** *(Publication in Progress).*
 
-  🚀 Former President – ISRO-IIRS Student Chapter
+<h2>🚀 Leadership</h2>
+
+Former President, **Team Matrix (ISRO-IIRS Student Chapter)**.
+
+<hr>
 
